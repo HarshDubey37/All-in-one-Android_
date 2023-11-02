@@ -1,14 +1,13 @@
 package com.jtp.hcontactlist.Univercity;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.SearchView;
-import androidx.recyclerview.widget.LinearLayoutManager;
-
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.jtp.hcontactlist.Retrofit.RetrofitAPI;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.SearchView;
+import androidx.recyclerview.widget.LinearLayoutManager;
+
 import com.jtp.hcontactlist.Retrofit.RetrofitManager;
 import com.jtp.hcontactlist.databinding.ActivityUnivercityBinding;
 import com.jtp.hcontactlist.model.University;
@@ -19,14 +18,12 @@ import java.util.List;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
-import retrofit2.Retrofit;
-import retrofit2.converter.gson.GsonConverterFactory;
 
 public class UnivercityActivity extends AppCompatActivity {
     ActivityUnivercityBinding binding;
     List<University>  universityList;
     UnivercityAdapter uad;
-    private SearchView searchView;
+    private SearchView searchView ;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
