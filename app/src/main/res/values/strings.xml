@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">DUBEY_G</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="home_page">Home Page</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="go_to_contacts">Go To Contacts</string>
+    <string name="go_to_states">Go To States</string>
+    <string name="go_to_mobile">Go To Mobile</string>
+    <string name="go_to_computer">Go To Computer</string>
+    <string name="title_activity_main_activitystates">MainActivitystates</string>
+    <string name="title_activity_main_activity3st">MainActivity3st</string>
+    <string name="title_activity_main_activity4mob">MainActivity4mob</string>
+    <string name="state_list">State List</string>
+    <string name="mobile_brands_list">Mobile Brands List</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="Comapany" />
+    <string name="go_to_company">Go to Company</string>
+    <string name="company_list">Company List</string>
+    <string name="registration_page">Registration Page</string>
+    <string name="java">Java </string>
+    <string name="android">Android</string>
+    <string name="select_courses">Select Courses</string>
+    <string name="enter_e_mail">Enter E-Mail</string>
+    <string name="enter_mobile">Enter Mobile</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="student_management_portal">Student Management Portal</string>
+    <string name="registration">Registration</string>
+    <string name="show_student">SHOW STUDENT</string>
+    <string name="the_biliniors">The Biliniors</string>
+    <string name="travel_plans">Travel Plans</string>
+    <string name="updatebtntext">UPDATE</string>
+    <string name="android1">android</string>
+    <string name="java1">java</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="mobile1">Mobile</string>
+    <string name="name1">Name</string>
+    <string name="Refresh">Refresh</string>
+</resources>
