@@ -23,7 +23,7 @@ public class UnivercityActivity extends AppCompatActivity {
     ActivityUnivercityBinding binding;
     List<University>  universityList;
     UnivercityAdapter uad;
-    private SearchView searchView ;
+    private SearchView searchView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
